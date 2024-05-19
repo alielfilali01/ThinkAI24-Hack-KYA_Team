@@ -88,7 +88,7 @@ The door is framed by an archway, which further enhances its grandeur. Two handl
       - This image captures a beautiful Moroccan door set against a backdrop of blue and gold tiles. The door itself is made of wood and features a gold-colored metal design. It has two small handles on either side, adding to its charm. The door is framed by a large archway, which is adorned with a gold-colored metal lattice design. The overall effect is one of opulence and cultural richness. 
              ![image](https://github.com/alielfilali01/ThinkAI24-Hack-KYA_Team/assets/58257628/731cead2-43b1-44a2-b5ea-e6829ef991a2)
 
-### Limitation and Future Perspectives
+### Limitations and Future Perspectives
 
 #### Limitations
 1. **Data Coverage and Accuracy**: Although our chatbot is powered by a robust Vision Language Model and extensive datasets, there might be gaps in data coverage or inaccuracies due to the dynamic nature of cultural and logistical information.
