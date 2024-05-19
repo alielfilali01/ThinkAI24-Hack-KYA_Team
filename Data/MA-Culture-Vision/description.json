@@ -1,0 +1,695 @@
+{
+    "categories": [
+      {
+        "category": "tajine",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/tajine1.png",
+            "description": "This is a Moroccan dish called tajine. It is known for its slow-cooked savory stews, braised at low temperatures in a unique, cone-shaped earthenware pot. This tajine is a vegetable medley, featuring a variety of brightly colored vegetables such as carrots, potatoes, and peas. The vegetables are cooked in a flavorful broth and garnished with fresh herbs, making the dish both vibrant and healthy."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/tajine2.png",
+            "description": "This is a Moroccan dish called tajine. It is known for its slow-cooked savory stews, braised at low temperatures in a unique, cone-shaped earthenware pot. The tajine presents a combination of meat, prunes, and almonds. The meat is cooked to tender perfection, and the prunes add a sweet note, while the almonds provide a crunchy texture. The dish is beautifully garnished with a few more almonds scattered on top."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/tajine3.png",
+            "description": "This is a Moroccan dish called tajine. It is known for its slow-cooked savory stews, braised at low temperatures in a unique, cone-shaped earthenware pot. This tajine features chunks of chicken, peas, and slices of preserved lemon. The dish is rich in Moroccan spices and the preserved lemon adds a unique, tangy flavor. The vibrant green peas and the yellow lemon slices create a visually appealing contrast."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/tajine4.png",
+            "description": "This is a Moroccan dish called tajine. It is known for its slow-cooked savory stews, braised at low temperatures in a unique, cone-shaped earthenware pot. The tajine contains a savory mix of chicken and vegetables. The chicken pieces are tender and infused with the flavors of spices and herbs, while the vegetables, including carrots and olives, add a variety of textures and tastes. The tajine is adorned with a colorful, traditional Moroccan lid."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/tajine5.png",
+            "description": "This is a Moroccan dish called tajine. It is known for its slow-cooked savory stews, braised at low temperatures in a unique, cone-shaped earthenware pot. This tajine showcases a hearty dish with meatballs and eggs. The meatballs are cooked in a rich, spiced tomato sauce, and there are a few eggs cracked on top, which have been poached to perfection. The dish is garnished with fresh herbs, adding a burst of color and freshness."
+          },
+          {
+            "id": "6",
+            "path": "Imgs/tajine6.png",
+            "description": "This is a Moroccan dish called tajine. It is known for its slow-cooked savory stews, braised at low temperatures in a unique, cone-shaped earthenware pot. The tajine features a beautifully arranged display of sardines. The sardines are coated in a golden spice mix and are meticulously placed in a circular pattern, topped with slices of lemon for a fresh, zesty accent. At the center, there is a decorative rose made from a thinly sliced vegetable, adding a touch of elegance to the presentation."
+          }
+        ]
+      },
+      {
+        "category": "couscous",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/couscous1.png",
+            "description": "This image represents couscous, a traditional Moroccan dish. The couscous is beautifully arranged with a variety of vegetables, including carrots, zucchini, and pumpkin, surrounding a central mound of caramelized onions and raisins. The dish is served on an intricately patterned plate, adding to its visual appeal, with a glass of milk and a bowl of sauce on the side."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/couscous2.png",
+            "description": "This image represents couscous, a traditional Moroccan dish. The couscous is garnished with a colorful array of vegetables like carrots and zucchini, along with chickpeas. The central mound features a mix of tender meat topped with caramelized onions and raisins. The dish is served with additional sides, enhancing its presentation."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/couscous3.png",
+            "description": "This image represents couscous, a traditional Moroccan dish. The couscous is topped with a hearty mixture of vegetables such as carrots and zucchini, and chunks of meat. The vegetables and meat are nestled in the couscous, which is richly spiced and flavorful."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/couscous4.png",
+            "description": "This image represents couscous, a traditional Moroccan dish. The couscous is presented with an assortment of vegetables, chickpeas, and tender pieces of meat. The dish is arranged on a large, shared platter, making it ideal for communal dining. The colorful vegetables and meat create a visually appealing presentation."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/couscous5.png",
+            "description": "This image represents couscous, a traditional Moroccan dish. The couscous is surrounded by a variety of vegetables, including carrots, zucchini, and pumpkin, with chickpeas scattered throughout. The center of the dish features a generous portion of tender meat topped with caramelized onions and raisins, adding a sweet and savory touch."
+          }
+        ]
+      },
+      {
+        "category": "pastilla",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/pastilla1.png",
+            "description": "This image represents pastilla, a traditional Moroccan dish. The pastilla is beautifully presented on an ornate platter, topped with a dusting of powdered sugar and slivered almonds. The center is adorned with delicate, geometric pastry pieces, adding a decorative touch to the overall presentation."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/pastilla2.png",
+            "description": "This image represents pastilla, a traditional Moroccan dish. The pastilla is sliced open, revealing a savory filling of shredded chicken, herbs, and spices. The exterior is lightly dusted with powdered sugar and cinnamon, creating a contrast between the sweet and savory elements."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/pastilla3.png",
+            "description": "This image represents pastilla, a traditional Moroccan dish. The pastilla is garnished with shrimp, lettuce, and a mix of sauces. The center is topped with shredded cheese, adding an extra layer of richness to the dish. The edges are adorned with sliced deli meats and various toppings."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/pastilla4.png",
+            "description": "This image represents pastilla, a traditional Moroccan dish. The pastilla is decorated with slivered almonds and rose petals, adding a touch of elegance. The center is covered with ground pistachios, providing a vibrant green color and a crunchy texture. The surrounding white chocolate pieces enhance the visual appeal."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/pastilla5.png",
+            "description": "This image represents pastilla, a traditional Moroccan dish. The pastilla is being cut into slices, showcasing its flaky, golden-brown pastry crust. The top is dusted with powdered sugar and cinnamon, creating a lattice pattern that enhances its traditional presentation."
+          },
+          {
+            "id": "6",
+            "path": "Imgs/pastilla6.png",
+            "description": "This image represents pastilla, a traditional Moroccan dish. The pastilla is garnished with shrimp and lime slices, giving it a seafood twist. The flaky pastry crust is golden and crisp, and the lime slices add a fresh, zesty flavor to the dish."
+          }
+        ]
+      },
+      {
+        "category": "harira",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/harira1.png",
+            "description": "This image represents harira, a traditional Moroccan dish. The harira is served in two white bowls, filled with a rich and hearty soup made from tomatoes, chickpeas, lentils, and thin noodles. It is garnished with fresh cilantro. Accompanying the soup are traditional Moroccan flatbreads, dates, and a side of harissa sauce, enhancing the meal’s flavor profile."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/harira2.png",
+            "description": "This image represents harira, a traditional Moroccan dish. The harira is served in three beautifully decorated bowls, filled with a vibrant and aromatic soup. The soup is garnished with a sprig of fresh cilantro. On the side, there are traditional Moroccan flatbreads, adding a perfect accompaniment to the warm and flavorful soup."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/harira3.png",
+            "description": "This image represents harira, a traditional Moroccan dish. The harira is presented in a single bowl with a delicate, patterned design. The soup is made from a blend of tomatoes, chickpeas, lentils, and thin noodles, garnished with a sprig of fresh parsley. The setting includes fresh herbs and traditional Moroccan elements in the background, adding to the cultural authenticity of the dish."
+          }
+        ]
+      },
+      {
+        "category": "tea",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/tea1.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. In this image, the tea is being poured from a traditional, ornate silver teapot into two clear glasses. The glasses contain fresh mint leaves, adding to the visual appeal and aromatic experience of the tea."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/tea2.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. This image shows four glasses of tea on a beautifully decorated tray. Each glass is filled with the rich, amber-colored tea and garnished with a sprig of fresh mint. A silver teapot sits nearby, completing the traditional setup."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/tea3.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. In this image, the tea is being poured from an intricately designed silver teapot into a colorful glass. The glass sits on a tray with fresh mint leaves, and the background features traditional Moroccan patterns, enhancing the cultural ambiance."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/tea4.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. This image depicts a cozy evening setting with two glasses of tea and two silver teapots placed on a silver tray. The outdoor scene with illuminated buildings in the background adds a modern touch to the traditional experience."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/tea5.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. In this image, the tea is served in a tall glass filled with fresh mint leaves, emphasizing the drink's refreshing and aromatic qualities. The glass is placed on a saucer with a sugar cube, enhancing the traditional presentation."
+          },
+          {
+            "id": "6",
+            "path": "Imgs/tea6.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. This image captures the moment tea is being poured from a silver teapot into a small glass on a silver tray. The setup is simple yet elegant, focusing on the rich color of the tea and the traditional pouring method."
+          },
+          {
+            "id": "7",
+            "path": "Imgs/tea7.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. This image captures the moment tea is being poured from a silver teapot into a small glass on a silver tray. The setup is simple yet elegant, focusing on the rich color of the tea and the traditional pouring method."
+          },
+          {
+            "id": "8",
+            "path": "Imgs/tea8.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. This image shows a single glass of tea accompanied by a silver teapot on a beautifully decorated tray. A sprig of fresh mint and a small spoon are also placed on the tray, adding to the authenticity of the presentation."
+          },
+          {
+            "id": "9",
+            "path": "Imgs/tea9.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. In this image, four glasses of tea are neatly arranged on a silver tray. Each glass is decorated with intricate patterns and contains a sprig of mint, highlighting the elegance and tradition of Moroccan tea serving."
+          },
+          {
+            "id": "10",
+            "path": "Imgs/tea10.png",
+            "description": "This is a Moroccan mint tea is a famous drink made with green tea, fresh mint leaves, and sugar. This image features a bustling tea-serving scene with two ornate silver teapots pouring tea into multiple glasses. The glasses are lined up on a large tray, ready to be enjoyed by many, showcasing the communal aspect of tea drinking in Moroccan culture."
+          }
+        ]
+      },
+      {
+        "category": "msamen",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/msamen1.png",
+            "description": "This is a type of bread called msamen, famous in Morocco, made with a dough of flour, semolina, water, and butter, folded multiple times to create thin layers. In this image, several pieces of square msamen are stacked on a plate. Two glasses of Moroccan mint tea are placed behind the plate, along with a jar of honey, suggesting a traditional serving style."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/msamen2.png",
+            "description": "This is a type of bread called msamen, famous in Morocco, made with a dough of flour, semolina, water, and butter, folded multiple times to create thin layers. The image shows a beautifully arranged circular display of round msamen surrounding a bowl of honey or jam in the center. The msamen pieces are golden brown and look crispy, ready to be dipped into the sweet sauce."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/msamen3.png",
+            "description": "This is a type of bread called msamen, famous in Morocco, made with a dough of flour, semolina, water, and butter, folded multiple times to create thin layers. The image features several pieces of square msamen on a decorative plate. The bread has a golden, crispy exterior with visible layers, highlighting its flaky texture."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/msamen4.png",
+            "description": "This is a type of bread called msamen, famous in Morocco, made with a dough of flour, semolina, water, and butter, folded multiple times to create thin layers. In this image, round msamen are neatly stacked in a woven basket lined with a cloth. The bread is golden brown and perfectly cooked, emphasizing its traditional and homemade preparation."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/msamen5.png",
+            "description": "This is a type of bread called msamen, famous in Morocco, made with a dough of flour, semolina, water, and butter, folded multiple times to create thin layers. The image shows several thin, folded pieces of msamen on a plate, with one piece rolled up in the center. The layers of the bread are visible, showcasing its flaky and tender texture."
+          }
+        ]
+      },
+      {
+        "category": "sfenj",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/sfenj1.png",
+            "description": "This is the equivalent of donuts in Morocco, also called sfenj. Cooked in oil, sfenj are light, crispy, and often enjoyed for breakfast. In this image, a plate is stacked with golden, freshly fried sfenj. The plate is intricately designed, and the background features a traditional Moroccan tea setup with a silver teapot, a small glass of mint tea, and various accompaniments like honey and bread."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/sfenj2.png",
+            "description": "This is the equivalent of donuts in Morocco, also called sfenj. Cooked in oil, sfenj are light, crispy, and often enjoyed for breakfast. The image shows a rustic presentation of numerous sfenj, lightly dusted with powdered sugar, arranged on parchment paper. A small sifter with powdered sugar is also placed on top, ready to add more sweetness to these delicious treats."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/sfenj3.png",
+            "description": "This is the equivalent of donuts in Morocco, also called sfenj. Cooked in oil, sfenj are light, crispy, and often enjoyed for breakfast. In this image, several golden sfenj are strung together on a string, showcasing a traditional way of serving and selling them. The background features a natural outdoor setting, highlighting the authentic and homemade aspect of this beloved Moroccan treat."
+          }
+        ]
+      },
+      {
+        "category": "kaab_ghzal",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/kaab_ghzal1.png",
+            "description": "This is a Moroccan famous pastry called Kaab el ghzal, made with almond paste encased in a delicate pastry shell, often flavored with orange blossom water. In this image, the Kaab el ghzal pastries are beautifully arranged on a decorative plate. They are crescent-shaped and have a golden-brown exterior, showcasing their perfectly baked texture."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/kaab_ghzal2.png",
+            "description": "This is a Moroccan famous pastry called Kaab el ghzal, made with almond paste encased in a delicate pastry shell, often flavored with orange blossom water. The image shows several Kaab el ghzal pastries neatly placed on a colorful, patterned plate. The pastries have a light golden color, indicating they are baked to perfection and ready to be enjoyed."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/kaab_ghzal3.png",
+            "description": "This is a Moroccan famous pastry called Kaab el ghzal, made with almond paste encased in a delicate pastry shell, often flavored with orange blossom water. In this image, the Kaab el ghzal pastries are presented on an intricately designed plate. The pastries have a slightly golden hue and are elegantly arranged, highlighting their crescent shape."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/kaab_ghzal4.png",
+            "description": "This is a Moroccan famous pastry called Kaab el ghzal, made with almond paste encased in a delicate pastry shell, often flavored with orange blossom water. The image features a smaller plate with a few Kaab el ghzal pastries, placed on a traditional tray with ornate silver teapots in the background. The setup exudes a traditional Moroccan tea-time ambiance."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/kaab_ghzal5.png",
+            "description": "This is a Moroccan famous pastry called Kaab el ghzal, made with almond paste encased in a delicate pastry shell, often flavored with orange blossom water. The image shows several Kaab el ghzal pastries arranged in a circular pattern in a bowl. The pastries are light golden in color, emphasizing their tender and perfectly baked texture."
+          }
+        ]
+      },
+      {
+        "category": "chebakia",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/chebakia1.png",
+            "description": "This is a Moroccan famous pastry called Chebakia, made with a dough of flour, sesame seeds, anise, and orange blossom water, deep-fried and then soaked in honey. In this image, a large quantity of Chebakia pastries is shown, piled up and covered with a generous sprinkle of sesame seeds, highlighting their shiny, honey-glazed texture."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/chebakia2.png",
+            "description": "This is a Moroccan famous pastry called Chebakia, made with a dough of flour, sesame seeds, anise, and orange blossom water, deep-fried and then soaked in honey. The image focuses on a single piece of Chebakia held up close, showcasing its intricate, folded design and glistening honey coating, topped with sesame seeds for added crunch."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/chebakia3.png",
+            "description": "This is a Moroccan famous pastry called Chebakia, made with a dough of flour, sesame seeds, anise, and orange blossom water, deep-fried and then soaked in honey. In this image, the Chebakia pastries are beautifully arranged in a traditional Moroccan bowl with a side of honey, emphasizing their rich, golden-brown color and decorative sesame seed topping."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/chebakia4.png",
+            "description": "This is a Moroccan famous pastry called Chebakia, made with a dough of flour, sesame seeds, anise, and orange blossom water, deep-fried and then soaked in honey. The image shows a large plate filled with Chebakia pastries, each piece covered in honey and sprinkled with sesame seeds, ready to be served and enjoyed during Ramadan."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/chebakia5.png",
+            "description": "This is a Moroccan famous pastry called Chebakia, made with a dough of flour, sesame seeds, anise, and orange blossom water, deep-fried and then soaked in honey. In this image, a hand is picking up a piece of Chebakia from a decorative plate, highlighting the delicate, crispy texture and the shiny honey glaze with sesame seeds sprinkled on top."
+          }
+        ]
+      },
+      {
+        "category": "mosque_H2_",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/mosque_H2_1.png",
+            "description": "This is the Hassan II Mosque, located in Casablanca. Known for its stunning architecture and location on the Atlantic Ocean, it was built between 1986 and 1993. The mosque features the world's tallest minaret, standing at 210 meters. In this image, the mosque is seen from the ocean side, with waves crashing against the seawall, highlighting its majestic presence against a clear blue sky."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/mosque_H2_2.png",
+            "description": "This is the Hassan II Mosque, located in Casablanca. Known for its stunning architecture and location on the Atlantic Ocean, it was built between 1986 and 1993. The mosque features the world's tallest minaret, standing at 210 meters. The image captures the mosque through an arched doorway, framing the impressive structure against a partly cloudy sky. The polished courtyard reflects the mosque's beauty, adding to the serene atmosphere."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/mosque_H2_3.png",
+            "description": "This is the Hassan II Mosque, located in Casablanca. Known for its stunning architecture and location on the Atlantic Ocean, it was built between 1986 and 1993. The mosque features the world's tallest minaret, standing at 210 meters. In this image, the mosque is illuminated during twilight, casting a warm golden glow across the courtyard. The archway in the foreground adds a sense of depth and grandeur to the scene."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/mosque_H2_4.png",
+            "description": "This is the Hassan II Mosque, located in Casablanca. Known for its stunning architecture and location on the Atlantic Ocean, it was built between 1986 and 1993. The mosque features the world's tallest minaret, standing at 210 meters. The image shows the mosque framed by multiple arches, creating a symmetrical and aesthetically pleasing view. The clear blue sky and reflective courtyard enhance the mosque's architectural beauty."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/mosque_H2_5.png",
+            "description": "This is the Hassan II Mosque, located in Casablanca. Known for its stunning architecture and location on the Atlantic Ocean, it was built between 1986 and 1993. The mosque features the world's tallest minaret, standing at 210 meters. In this image, the mosque's towering minaret stands prominently against a clear sky. People are seen walking in the vast courtyard, giving a sense of scale to the monumental structure."
+          }
+        ]
+      },
+      {
+        "category": "T_hassan",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/T_hassan1.png",
+            "description": "This is the Hassan Tower located in Rabat. Known for its incomplete minaret and grand design, it was built in the late 12th century by the Almohad ruler Yacoub al-Mansour. The tower was intended to be part of the largest mosque in the world but was left unfinished upon his death. In this image, the Hassan Tower stands prominently with the rows of stone columns in the foreground, reflecting on the wet pavement, against a backdrop of a vibrant blue sky with scattered clouds."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/T_hassan2.png",
+            "description": "This is the Hassan Tower located in Rabat. Known for its incomplete minaret and grand design, it was built in the late 12th century by the Almohad ruler Yacoub al-Mansour. The tower was intended to be part of the largest mosque in the world but was left unfinished upon his death. In this image, the tower is seen on a clear day, framed by a flight of birds and contrails in the sky. The stone columns lead the eye towards the imposing structure, emphasizing its historical significance."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/T_hassan3.png",
+            "description": "This is the Hassan Tower located in Rabat. Known for its incomplete minaret and grand design, it was built in the late 12th century by the Almohad ruler Yacoub al-Mansour. The tower was intended to be part of the largest mosque in the world but was left unfinished upon his death. In this image, the Hassan Tower is seen from a distance with a decorative fountain in the foreground, surrounded by intricate tilework. The bright blue sky enhances the tower's majestic presence."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/T_hassan4.png",
+            "description": "This is the Hassan Tower located in Rabat. Known for its incomplete minaret and grand design, it was built in the late 12th century by the Almohad ruler Yacoub al-Mansour. The tower was intended to be part of the largest mosque in the world but was left unfinished upon his death. In this image, the tower is bathed in the warm glow of the setting sun, casting long shadows across the courtyard. People are seen walking around, adding a sense of scale and liveliness to the historical site."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/T_hassan5.png",
+            "description": "This is the Hassan Tower located in Rabat. Known for its incomplete minaret and grand design, it was built in the late 12th century by the Almohad ruler Yacoub al-Mansour. The tower was intended to be part of the largest mosque in the world but was left unfinished upon his death. In this image, the Hassan Tower stands tall under a clear blue sky. The surrounding stone columns highlight the intended grandeur of the mosque's original design."
+          }
+        ]
+      },
+      {
+        "category": "Mausolée_M_5_",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/Mausolée_M_5_1.png",
+            "description": "This is the Mausoleum of Mohammed V, located in Rabat. Known for its magnificent architecture and historical significance, it was built in 1961 to honor King Mohammed V, who led Morocco to independence. The mausoleum is an excellent example of traditional Moroccan design. In this image, the mausoleum is illuminated at night, showcasing its intricate facade and green-tiled roof, with ornate arches and decorative details highlighted against the dark sky."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/Mausolée_M_5_2.png",
+            "description": "This is the Mausoleum of Mohammed V, located in Rabat. Known for its magnificent architecture and historical significance, it was built in 1961 to honor King Mohammed V, who led Morocco to independence. The mausoleum is an excellent example of traditional Moroccan design. In this image, the mausoleum is seen from a distance with the stone columns of the Hassan Tower in the foreground. The green-tiled roof and white marble exterior stand out against the clear blue sky, and visitors can be seen in the background."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/Mausolée_M_5_3.png",
+            "description": "This is the Mausoleum of Mohammed V, located in Rabat. Known for its magnificent architecture and historical significance, it was built in 1961 to honor King Mohammed V, who led Morocco to independence. The mausoleum is an excellent example of traditional Moroccan design. The image captures the front view of the mausoleum, with its grand entrance and beautifully detailed arches. People are seen walking in the courtyard, adding a sense of scale to the impressive structure."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/Mausolée_M_5_4.png",
+            "description": "This is the Mausoleum of Mohammed V, located in Rabat. Known for its magnificent architecture and historical significance, it was built in 1961 to honor King Mohammed V, who led Morocco to independence. The mausoleum is an excellent example of traditional Moroccan design. In this image, the mausoleum is bathed in warm sunlight, with people gathered around the entrance, dressed in traditional and modern attire. The surrounding columns and clear blue sky enhance the beauty of the scene."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/Mausolée_M_5_5.png",
+            "description": "This is the Mausoleum of Mohammed V, located in Rabat. Known for its magnificent architecture and historical significance, it was built in 1961 to honor King Mohammed V, who led Morocco to independence. The mausoleum is an excellent example of traditional Moroccan design. The image shows the mausoleum's entrance with people ascending the steps. The green-tiled roof and detailed arches are prominent, with the afternoon light casting a warm glow on the white marble structure."
+          }
+        ]
+      },
+      {
+        "category": "riad",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/riad1.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad features a beautifully decorated courtyard with a fountain, lush plants, and ornate mosaic walls. The area is illuminated with soft lighting, creating a serene and inviting atmosphere."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/riad2.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad boasts a grand central area with arched columns, plush seating, and a large wooden table. A stunning chandelier hangs from the ceiling, adding to the luxurious feel of the space."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/riad3.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad showcases a charming courtyard pool surrounded by flowering plants and arched doorways. The vibrant greenery and blooming flowers add to the tranquil ambiance."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/riad4.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad's courtyard features a central fountain surrounded by colorful mosaic tiles. The two-story structure is adorned with wooden balconies and intricate patterns, creating a visually captivating space."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/riad5.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad features a cozy, intimate courtyard with a small pool, traditional seating, and decorative arches. The soft lighting and warm colors create a welcoming and peaceful environment."
+          },
+          {
+            "id": "6",
+            "path": "Imgs/riad6.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad is viewed from above, showcasing the lush central garden with trees and greenery. The traditional Moroccan architecture, with its white walls and green-tiled roof, stands out against the backdrop of the cityscape."
+          },
+          {
+            "id": "7",
+            "path": "Imgs/riad7.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad is illuminated at dusk, with the courtyard and upper terrace lit up. The surrounding city buildings and distant minaret create a picturesque view, highlighting the Riad's elegant design."
+          },
+          {
+            "id": "8",
+            "path": "Imgs/riad8.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad's courtyard is lush with greenery, with vines hanging from the upper balcony and potted plants throughout. The central pool and checkerboard tiles add to the serene and inviting atmosphere."
+          },
+          {
+            "id": "9",
+            "path": "Imgs/riad9.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad features an elegant courtyard with a central fountain and intricate tilework. The arched columns and detailed mosaics create a stunning visual effect, reflecting the rich cultural heritage of Morocco."
+          },
+          {
+            "id": "10",
+            "path": "Imgs/riad10.png",
+            "description": "This is a type of house in Morocco called a Riad, known for its traditional design with an interior garden or courtyard. Riads have historical roots in Moroccan architecture, combining privacy with natural beauty, often featuring intricate tile work and lush greenery. In this image, the Riad's courtyard is adorned with a large star-shaped fountain surrounded by green-tiled pillars. The upper balconies and ornate woodwork add to the Riad's traditional and luxurious charm."
+          }
+        ]
+      },
+      {
+        "category": "Koutoubia",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/Koutoubia1.png",
+            "description": "This is the Koutoubia Mosque, located in Marrakech. Known for its stunning minaret and historical significance, it was built in the 12th century during the reign of the Almohad Caliph Yaqub al-Mansur. The mosque is a quintessential example of Almohad architecture. The image captures the Koutoubia Mosque at sunset, with the sky ablaze in dramatic colors. The warm light bathes the minaret and the surrounding ruins, creating a captivating and timeless scene."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/Koutoubia2.png",
+            "description": "This is the Koutoubia Mosque, located in Marrakech. Known for its stunning minaret and historical significance, it was built in the 12th century during the reign of the Almohad Caliph Yaqub al-Mansur. The mosque is a quintessential example of Almohad architecture. In this image, the mosque is seen from a distance, highlighting its expansive courtyard filled with remnants of historical columns. The minaret rises majestically against the deep blue sky, emphasizing its architectural grandeur."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/Koutoubia3.png",
+            "description": "This is the Koutoubia Mosque, located in Marrakech. Known for its stunning minaret and historical significance, it was built in the 12th century during the reign of the Almohad Caliph Yaqub al-Mansur. The mosque is a quintessential example of Almohad architecture. The image shows the Koutoubia Mosque under a bright, clear blue sky. The minaret, with its detailed stonework and golden top, stands prominently, framed by palm trees and the mosque's lower structure."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/Koutoubia4.png",
+            "description": "This is the Koutoubia Mosque, located in Marrakech. Known for its stunning minaret and historical significance, it was built in the 12th century during the reign of the Almohad Caliph Yaqub al-Mansur. The mosque is a quintessential example of Almohad architecture. In this image, the Koutoubia Mosque is seen in the early evening, with a flock of pigeons taking flight in the foreground. The sky is filled with soft clouds, creating a picturesque scene with the mosque's minaret towering above."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/Koutoubia5.png",
+            "description": "This is the Koutoubia Mosque, located in Marrakech. Known for its stunning minaret and historical significance, it was built in the 12th century during the reign of the Almohad Caliph Yaqub al-Mansur. The mosque is a quintessential example of Almohad architecture. In this image, the Koutoubia Mosque is captured at sunset, with a vibrant sky painted in hues of pink and purple. The illuminated minaret stands out against the colorful backdrop, while people are seen walking around the plaza."
+          }
+        ]
+      },
+      {
+        "category": "souk",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/souk1.png",
+            "description": "This is an image of a Moroccan souk, which is a traditional market or bazaar commonly found in North African cities. Souks are known for their vibrant atmosphere, a wide variety of goods, and bustling trade. They often feature narrow alleys lined with stalls selling everything from spices to textiles. In this image, the souk is covered with a woven canopy, casting intricate shadows on the ground. Brightly colored textiles and pillows are displayed on the right, while various other goods are visible in the distance."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/souk2.png",
+            "description": "This is an image of a Moroccan souk, which is a traditional market or bazaar commonly found in North African cities. Souks are known for their vibrant atmosphere, a wide variety of goods, and bustling trade. They often feature narrow alleys lined with stalls selling everything from spices to textiles. In this image, a woman is seen browsing through a stall displaying a variety of woven baskets with colorful designs. The stall is set against an arched entrance, adding to the traditional feel of the market."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/souk3.png",
+            "description": "This is an image of a Moroccan souk, which is a traditional market or bazaar commonly found in North African cities. Souks are known for their vibrant atmosphere, a wide variety of goods, and bustling trade. They often feature narrow alleys lined with stalls selling everything from spices to textiles. In this image, the souk is filled with an array of pottery and ceramic goods. The stall is packed with beautifully decorated plates, tagines, and other pottery items, showcasing the rich craftsmanship of Moroccan artisans."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/souk4.png",
+            "description": "This is an image of a Moroccan souk, which is a traditional market or bazaar commonly found in North African cities. Souks are known for their vibrant atmosphere, a wide variety of goods, and bustling trade. They often feature narrow alleys lined with stalls selling everything from spices to textiles. In this image, a narrow alley is lined with various stalls selling crafts, textiles, and souvenirs. People are seen walking through the souk, exploring the diverse range of items on display."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/souk5.png",
+            "description": "This is an image of a Moroccan souk, which is a traditional market or bazaar commonly found in North African cities. Souks are known for their vibrant atmosphere, a wide variety of goods, and bustling trade. They often feature narrow alleys lined with stalls selling everything from spices to textiles. In this image, a stall is displaying an array of colorful carpets and textiles hung along the walls of a building. The warm, earthy tones of the textiles complement the traditional architecture of the surrounding area."
+          },
+          {
+            "id": "6",
+            "path": "Imgs/souk6.png",
+            "description": "This is an image of a Moroccan souk, which is a traditional market or bazaar commonly found in North African cities. Souks are known for their vibrant atmosphere, a wide variety of goods, and bustling trade. They often feature narrow alleys lined with stalls selling everything from spices to textiles. In this image, the souk is illuminated with artificial lighting, creating a cozy and inviting atmosphere. The stalls are packed with colorful textiles, adding to the vibrant and lively ambiance of the market."
+          },
+          {
+            "id": "7",
+            "path": "Imgs/souk7.png",
+            "description": "This is an image of a Moroccan souk, which is a traditional market or bazaar commonly found in North African cities. Souks are known for their vibrant atmosphere, a wide variety of goods, and bustling trade. They often feature narrow alleys lined with stalls selling everything from spices to textiles. In this image, the souk is in an open square, with textiles and rugs hung on the building's facade. People are seen browsing and interacting, adding to the lively and communal feel of the market."
+          }
+        ]
+      },
+      {
+        "category": "Caftans",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/Caftans1.png",
+            "description": "This image shows a traditional cloth for women called Caftan, known for its elegance and intricate embroidery, often worn during special occasions like weddings. The woman in the image is wearing a stunning white and gold caftan with a beautifully designed belt, standing outdoors with a luxurious ambiance at night."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/Caftans2.png",
+            "description": "This image shows a traditional cloth for women called Caftan, known for its elegance and intricate embroidery, often worn during special occasions like weddings. The image focuses on the upper body of a woman wearing a white caftan adorned with gold floral embroidery and a matching belt, showcasing the detailed craftsmanship."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/Caftans3.png",
+            "description": "This image shows a traditional cloth for women called Caftan, known for its elegance and intricate embroidery, often worn during special occasions like weddings. The close-up image highlights a green caftan with elaborate green and gold embroidery, paired with a golden belt with intricate designs."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/Caftans4.png",
+            "description": "This image shows a traditional cloth for women called Caftan, known for its elegance and intricate embroidery, often worn during special occasions like weddings. The caftan displayed on a mannequin is a soft lavender color with gold accents and embroidery, complemented by a beautifully designed belt."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/Caftans5.png",
+            "description": "This pic shows a traditional cloth for women called Caftan, known for its elegance and intricate embroidery, often worn during special occasions like weddings. The woman is wearing a luxurious caftan with a combination of gold and dark sequin fabric, featuring wide sleeves and a deep V-neck, standing in a boutique setting."
+          }
+        ]
+      },
+      {
+        "category": "cloths",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/cloaths1.png",
+            "description": "This image represents a traditional cloth in Morocco called a Jabador. It is worn for special occasions and ceremonies. The man is dressed in a white Jabador with intricate embroidery and matching pants. The outfit is elegant and sophisticated, showcasing the fine craftsmanship of Moroccan textiles."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/cloaths2.png",
+            "description": "This image represents a traditional cloth in Morocco called a Djellaba. It is a long, loose-fitting robe with a hood, commonly worn by Moroccan men. The man in the picture is wearing a white Djellaba, complete with a pointed hood and yellow traditional slippers called Babouches. The background shows beautiful Moroccan tile work, adding to the cultural ambiance."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/cloaths3.png",
+            "description": "This image represents a traditional cloth in Morocco called a Jabador. The man is wearing a white Jabador with elaborate gold embroidery. He is standing by a window, with soft light illuminating the intricate details of his outfit. The scene exudes elegance and tradition."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/cloaths4.png",
+            "description": "This image represents a traditional cloth in Morocco called a Gandoura. It is a simpler, tunic-like garment often worn for everyday purposes. The man is dressed in a black Gandoura, standing with his hands clasped in front. The minimalistic design highlights the comfort and practicality of this traditional attire."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/cloaths5.png",
+            "description": "This image represents a traditional cloth in Morocco called a Djellaba. The man is wearing a rust-colored Djellaba while walking through a market street. His attire is complemented by a traditional red Fez hat. The bustling market scene in the background adds to the authenticity of Moroccan daily life."
+          },
+          {
+            "id": "6",
+            "path": "Imgs/cloaths6.png",
+            "description": "This image represents a traditional cloth in Morocco called a Djellaba. The elderly man is dressed in a bright yellow Djellaba, sitting comfortably with yellow Babouches and a white Fez hat. The setting includes traditional Moroccan copperware, enhancing the cultural context of the image."
+          },
+          {
+            "id": "7",
+            "path": "Imgs/cloaths7.png",
+            "description": "This image represents a traditional cloth in Morocco called a Djellaba. The man is seen walking in a white-striped Djellaba with a red Fez hat. His yellow Babouches and the street scene with market stalls in the background capture the essence of traditional Moroccan attire in everyday life."
+          },
+          {
+            "id": "8",
+            "path": "Imgs/cloaths8.png",
+            "description": "This image represents a traditional cloth in Morocco worn by water sellers. The man is dressed in a colorful outfit with a distinctive hat adorned with tassels. He is carrying traditional brass cups, which are part of his profession. The vibrant colors and unique attire make him a recognizable figure in Moroccan culture."
+          },
+          {
+            "id": "9",
+            "path": "Imgs/cloaths9.png",
+            "description": "This image represents a traditional cloth in Morocco called a Gandoura. The man is wearing a blue Gandoura while tending to livestock at a market. The casual, loose-fitting garment is ideal for such activities, reflecting the practicality and tradition of Moroccan rural life."
+          },
+          {
+            "id": "10",
+            "path": "Imgs/cloaths10.png",
+            "description": "This image represents a traditional cloth in Morocco called a Djellaba. The young boy is dressed in a white-striped Djellaba with yellow Babouches and a red Fez hat. His attire reflects the continuation of Moroccan traditions among the younger generation, adding a charming touch to the scene."
+          },
+          {
+            "id": "11",
+            "path": "Imgs/cloaths11.png",
+            "description": "This image represents traditional clothing in Morocco, featuring a woman adorned in elaborate jewelry and a vibrant headscarf. The clothing showcases rich cultural heritage and intricate designs, emphasizing the significance of traditional attire in Moroccan society."
+          },
+          {
+            "id": "12",
+            "path": "Imgs/cloaths12.png",
+            "description": "This image represents traditional clothing in Morocco, depicting two women in white dresses with colorful belts and headpieces. The attire is complemented by traditional jewelry, highlighting the cultural importance of detailed ornamentation."
+          },
+          {
+            "id": "13",
+            "path": "Imgs/cloaths13.png",
+            "description": "This image represents traditional clothing in Morocco, featuring a woman in a richly embroidered red garment with a matching headscarf. The attire is elegant and highlights the exquisite craftsmanship typical of Moroccan traditional dress."
+          },
+          {
+            "id": "14",
+            "path": "Imgs/cloaths14.png",
+            "description": "This image represents traditional clothing in Morocco, showcasing a woman wearing a traditional hat adorned with colorful pom-poms and a striped skirt. The attire reflects the vibrant and joyful aspects of Moroccan culture."
+          },
+          {
+            "id": "15",
+            "path": "Imgs/cloaths15.png",
+            "description": "This image represents traditional clothing in Morocco, featuring a woman in a brightly colored dress with intricate patterns. The vibrant colors and detailed embroidery emphasize the uniqueness of Moroccan traditional clothing."
+          },
+          {
+            "id": "16",
+            "path": "Imgs/cloaths16.png",
+            "description": "This image represents traditional clothing in Morocco, showing a woman dressed in a red and silver outfit with elaborate headgear. The intricate designs and detailed accessories are characteristic of Moroccan traditional attire."
+          },
+          {
+            "id": "17",
+            "path": "Imgs/cloaths17.png",
+            "description": "This image represents traditional clothing in Morocco, highlighting a woman in a simple yet elegant white dress with decorative trims. The minimalist design reflects a different aspect of Moroccan fashion, focusing on subtle elegance."
+          },
+          {
+            "id": "18",
+            "path": "Imgs/cloaths18.png",
+            "description": "This image represents traditional clothing in Morocco, featuring a woman in a traditional veil and headpiece. The intricate lace and detailed headband add a touch of sophistication to the traditional attire."
+          },
+          {
+            "id": "19",
+            "path": "Imgs/cloaths19.png",
+            "description": "This image represents traditional clothing in Morocco, showcasing a woman in a light blue dress with silver embroidery. The attire is modern yet traditional, reflecting the blend of contemporary and historical elements in Moroccan fashion."
+          },
+          {
+            "id": "20",
+            "path": "Imgs/cloaths20.png",
+            "description": "This image represents traditional clothing in Morocco, depicting a woman in a vibrant red headscarf and traditional jewelry. The bold colors and detailed accessories emphasize the cultural richness and traditional craftsmanship of Moroccan attire."
+          }
+        ]
+      },
+      {
+        "category": "music_instruments",
+        "images": [
+          {
+            "id": "1",
+            "path": "Imgs/music_instruments1.png",
+            "description": "This image is a guembri, a traditional Moroccan music instrument. It is a plucked lute used in Gnawa music, characterized by its rectangular wooden body covered with camel skin. The instrument is typically decorated with intricate carvings."
+          },
+          {
+            "id": "2",
+            "path": "Imgs/music_instruments2.png",
+            "description": "This image is of krakebs, traditional Moroccan hand cymbals used in Gnawa music. The musician's hands hold two pairs of iron castanets, creating rhythmic clapping sounds essential for the spiritual and communal rituals."
+          },
+          {
+            "id": "3",
+            "path": "Imgs/music_instruments3.png",
+            "description": "This image is of a rebab, a traditional string instrument played with a bow. It has a small, round body made of wood, often intricately decorated. It is used in various Moroccan musical traditions, including Andalusian classical music."
+          },
+          {
+            "id": "4",
+            "path": "Imgs/music_instruments4.png",
+            "description": "This image is of a set of guembris, another look at these unique instruments, showcasing different decorative patterns and sizes. The guembri is crucial in the Gnawa musical heritage, providing deep, resonant bass tones."
+          },
+          {
+            "id": "5",
+            "path": "Imgs/music_instruments5.png",
+            "description": "This image is of darija or tabla, Moroccan percussion instruments. These goblet drums are often ornately decorated with traditional Moroccan designs and are used in a variety of musical genres for rhythm."
+          },
+          {
+            "id": "6",
+            "path": "Imgs/music_instruments6.png",
+            "description": "This image is of a bendir, a frame drum commonly used in Moroccan folk music. The bendir has a wooden frame with a stretched animal skin, sometimes with jingles, providing a deep and resonant sound."
+          },
+          {
+            "id": "7",
+            "path": "Imgs/music_instruments7.png",
+            "description": "This image is another set of guembris, highlighting the diversity in their designs and craftsmanship. The guembri's sound is integral to the spiritual Gnawa ceremonies and musical gatherings."
+          },
+          {
+            "id": "8",
+            "path": "Imgs/music_instruments8.png",
+            "description": "This image is of a ghaita or zurna, a traditional Moroccan double-reed wind instrument. The ghaita produces a loud, piercing sound and is used in various Moroccan festive and ceremonial music."
+          },
+          {
+            "id": "9",
+            "path":"Imgs/music_instruments9.png",
+            "description": "This image is another example of darija or tabla, emphasizing the intricate and colorful decorations. These drums are a staple in Moroccan rhythmic sections, providing the beat in many traditional and contemporary music pieces."
+          },
+          {
+            "id": "10",
+            "path": "Imgs/music_instruments10.png",
+            "description": "This image is of ouds, traditional string instruments similar to lutes, essential in Moroccan classical music. The oud has a pear-shaped body and is known for its rich, resonant tones, making it a favorite in both solo and ensemble performances."
+          }
+        ]
+      }
+    ]
+  }
+  
