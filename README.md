@@ -58,7 +58,7 @@ Our project aims to enhance the experience of tourists and visitors during major
 - Finetuned Model: [Ali-C137/idefics2-8b-yalla-finetuned-cultural](https://huggingface.co/Ali-C137/idefics2-8b-yalla-finetuned-cultural)
 
 ### **Demo:** 
- - Recorded video/gif demonstrating the working example of our solution (to be included).
+ - Recorded video/gif demonstrating the working example of our solution : https://youtu.be/TudD2-gOR8o
 
 **Evaluation Protocol and Benchmarks:**
 - Comparison of responses from 5 different VLMs against our finetuned version.
