@@ -24,7 +24,7 @@ To launch the interface, follow these steps:
    ```
    python ./gradio_demo/app_dialogue.py
    ```
-
+<!--
 ### Storyline of our 4-Minute Pitch + 2-Minute Q&A
 
 1. **Slide 1: Introduction**
@@ -41,7 +41,8 @@ To launch the interface, follow these steps:
 
 4. **Slide 4: Future Enhancements and Impact**
    - Potential integrations (e.g., cooperative and artisan data, tool usage).
-   - Expected economic and cultural benefits for Morocco.
+   - Expected economic and cultural benefits for Morocco.  
+-->
 
 ### Project Description for GitHub Repository
 **GenAI Challenge Path:** Cultural Heritage
@@ -56,7 +57,8 @@ Our project aims to enhance the experience of tourists and visitors during major
 - Custom Dataset: [MA-Culture-Vision-v0.2](https://huggingface.co/datasets/Ali-C137/MA-Culture-Vision-v0.2)
 - Finetuned Model: [Ali-C137/idefics2-8b-yalla-finetuned-cultural](https://huggingface.co/Ali-C137/idefics2-8b-yalla-finetuned-cultural)
 
-**Demo:** Recorded video/gif demonstrating the working example of our solution (to be included).
+### **Demo:** 
+ - Recorded video/gif demonstrating the working example of our solution (to be included).
 
 **Evaluation Protocol and Benchmarks:**
 - Comparison of responses from 5 different VLMs against our finetuned version.
