@@ -58,10 +58,10 @@ Our project aims to enhance the experience of tourists and visitors during major
 - Finetuned Model: [Ali-C137/idefics2-8b-yalla-finetuned-cultural](https://huggingface.co/Ali-C137/idefics2-8b-yalla-finetuned-cultural)
 
 ### **Demo:** 
- - Recorded video/gif demonstrating the working example of our solution : https://youtu.be/TudD2-gOR8o
+ - Recorded video demonstrating the working example of our solution : https://youtu.be/TudD2-gOR8o
 
 **Evaluation Protocol and Benchmarks:**
-- Comparison of responses from 5 different VLMs against our finetuned version.
+- Comparison of responses from 4 different VLMs against our finetuned version.
   - The prompt : **What can you tell me about this picture**
   - The image :
  
@@ -70,14 +70,16 @@ Our project aims to enhance the experience of tourists and visitors during major
 
   - The Responses : 
     - DeepSeek-VL-7B :
-           - The image showcases a pair of intricately designed wooden doors set within an ornate archway. The doors are adorned with detailed geometric patterns and Arabic calligraphy, suggesting cultural or historical significance. The archway is embellished with blue tiles featuring a repeating diamond pattern, which contrasts beautifully with the warm tones of the wood. The overall aesthetic appears to be influenced by Islamic art and architecture, characterized by symmetry, repetition, and intricate craftsmanship. The lighting in the photo highlights the textures and details of both the doors and the surrounding tilework, creating a sense of depth and dimension.
+      
+      - The image showcases a pair of intricately designed wooden doors set within an ornate archway. The doors are adorned with detailed geometric patterns and Arabic calligraphy, suggesting cultural or historical significance. The archway is embellished with blue tiles featuring a repeating diamond pattern, which contrasts beautifully with the warm tones of the wood. The overall aesthetic appears to be influenced by Islamic art and architecture, characterized by symmetry, repetition, and intricate craftsmanship. The lighting in the photo highlights the textures and details of both the doors and the surrounding tilework, creating a sense of depth and dimension.
+ 
     
     - Qwen-VL-Max (API) :
-           - The image presents an architectural marvel, a door that is a testament to intricate craftsmanship and design. The door, made of wood, stands out with its gold color, adorned with a pattern of interlocking circles and squares. It's not just the door but also the surrounding wall that adds to the visual appeal. The wall, painted in blue, features a pattern of white lines and dots, creating a striking contrast against the gold door.
+       - The image presents an architectural marvel, a door that is a testament to intricate craftsmanship and design. The door, made of wood, stands out with its gold color, adorned with a pattern of interlocking circles and squares. It's not just the door but also the surrounding wall that adds to the visual appeal. The wall, painted in blue, features a pattern of white lines and dots, creating a striking contrast against the gold door.
 The door is framed by an archway, which further enhances its grandeur. Two handles, each featuring a unique design, are attached to the door, adding to its aesthetic appeal. The image does not contain any text or other discernible objects. The relative position of the objects suggests that the door is the central focus of the image, with the wall serving as a backdrop that complements it beautifully. The image exudes a sense of symmetry and balance, with every element meticulously placed to create a harmonious composition.
 
     -  PaliGemma :
-           - In this image we can see a door.
+        - In this image we can see a door.
     
     -   IDEFICS2 :
            - This is a door. In the background there are walls with designs on it.
@@ -86,4 +88,17 @@ The door is framed by an archway, which further enhances its grandeur. Two handl
       - This image captures a beautiful Moroccan door set against a backdrop of blue and gold tiles. The door itself is made of wood and features a gold-colored metal design. It has two small handles on either side, adding to its charm. The door is framed by a large archway, which is adorned with a gold-colored metal lattice design. The overall effect is one of opulence and cultural richness. 
              ![image](https://github.com/alielfilali01/ThinkAI24-Hack-KYA_Team/assets/58257628/731cead2-43b1-44a2-b5ea-e6829ef991a2)
 
+### Limitation and Future Perspectives
 
+#### Limitations
+1. **Data Coverage and Accuracy**: Although our chatbot is powered by a robust Vision Language Model and extensive datasets, there might be gaps in data coverage or inaccuracies due to the dynamic nature of cultural and logistical information.
+2. **Language Support**: While our solution should be able to support multiple languages through translation models (NLLB), there could be nuances and dialects that are not fully captured, potentially leading to misunderstandings.
+
+#### Future Perspectives
+1. **Enhanced Data Integration**: Expand the dataset to include more comprehensive and up-to-date information on Moroccan culture, logistics, and events. This includes integrating real-time data sources for transport, events, and local services.
+2. **Advanced Language Models**: Continuously update and fine-tune the language models to support more languages and dialects, ensuring more accurate and context-aware responses.
+3. **Improved User Experience**: Develop a more interactive and intuitive user interface, incorporating feedback from users to enhance usability and satisfaction.
+4. **Extended Functionalities**: Introduce new features such as personalized recommendations, local business promotions, and interactive maps to provide a richer and more engaging user experience.
+5. **Partnerships and Collaborations**: Collaborate with local businesses, government agencies, and event organizers to ensure the chatbot provides the most relevant and useful information, promoting local culture and economy effectively.
+
+By addressing these limitations and exploring future perspectives, our solution aims to become an indispensable tool for enhancing the experience of tourists and visitors, showcasing the rich culture of Morocco, and supporting the local economy during major events.
